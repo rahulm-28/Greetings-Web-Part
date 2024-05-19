@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "greeting-web-part-client-side-solution",
+    "id": "2ad106bd-e4db-48ea-becf-aec40de85421",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.17.4"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "greeting-web-part description"
+      },
+      "longDescription": {
+        "default": "greeting-web-part description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "greeting-web-part Feature",
+        "description": "The feature that activates elements of the greeting-web-part solution.",
+        "id": "e5bfcbe4-7ec7-4c97-973b-a72207083c1d",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/greeting-web-part.sppkg"
+  }
+}

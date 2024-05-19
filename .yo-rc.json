@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.2",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "greeting-web-part",
+    "libraryId": "2ad106bd-e4db-48ea-becf-aec40de85421",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "greeting-web-part",
+    "solutionShortDescription": "greeting-web-part description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
